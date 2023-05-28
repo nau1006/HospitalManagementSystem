@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'antifragilee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1DCE57BC207474A979B2B3387D1471E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2BAC87662254C15ABC3F63FDD330F8E }}
           package: .
